@@ -1,1 +1,32 @@
 /* Add CSS Styling */
+.readability{
+    background-color: rgb(212, 124, 124);
+}
+
+.font-type{
+    font-family: Verdana, sans-serif;
+}
+
+.font-size{
+    font-size: 24px;
+}
+
+.text-color{
+    color: rgb(14, 14, 177);
+}
+
+#size-of-font{
+    font-size: 36px;
+}
+
+.color-of-text{
+    background-color: rgb(157, 211, 157);
+}
+
+#the-font-size{
+    font-size: 24px;
+}
+
+.bold-text{
+    font-weight: bold;
+}
